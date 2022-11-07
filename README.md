@@ -6,4 +6,4 @@
 4. Make Panel child of Canvas. Then Make Content child of the Panel (Order Will Be : Canvas -> Panel -> Content)
 5. Add "Scroll Rect" component to the Panel and Disable Vertical if you only want Horizontal movement or Scroll.
 
-
+## Masking
