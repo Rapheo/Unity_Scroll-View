@@ -2,6 +2,8 @@
 
 ![](Scroll.gif)
 
+## Horizontal Scroll
+
 1. Add a UI canvus
 2. Make a empty object and add "Rect Transfrom", "Canvas Renderer" and "Horizontal Layout Group" component
 3. In "Horizontal Layout Group" make "Child Alignment = Middle Center"
